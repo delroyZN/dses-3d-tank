@@ -19,6 +19,11 @@ The installer is per-user and needs no administrator rights. Once installed, the
 - Inspection report pack PDF with cover, document control, sign-offs and recommendations
 - Work pack: ITP hold points, approvals, cost estimate and Gantt shutdown schedule
 - Presentation mode with MP4 turntable video
+- Analysis mode: fill and drain, API 650 shell check, simplified FEA and bracing (indicative)
+- Whole-part repair and replace scopes, and drawing sets with material take-offs (PDF and DXF)
+- Hydrostatic test planning against API 650 Table 7.1 filling rates
+- API Inspector AI using Claude Code or Codex already signed in on your computer
+- API 653 compliance check: weld spacing between new and existing welds, insert and patch limits, weld reinforcement and undercut, peaking, banding, misalignment, plumbness, roundness and remaining thickness, flagged on the 3D model with the clause (indicative, not a certified assessment)
 - `.dses3d` project files, undo and redo, autosave and automatic backups
 
 ## Release files
